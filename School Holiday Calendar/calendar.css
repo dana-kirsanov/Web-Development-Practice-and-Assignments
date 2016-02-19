@@ -1,0 +1,30 @@
+#container{
+	text-align: center;
+	background-color: white;
+	padding:10px;
+	margin-left:20%;
+	margin-right: 20%;
+	border-radius: 10px;
+}
+
+body{
+	font-family: helvetica;
+	background-color: lightgray;
+}
+
+header{
+	background-color: indigo;
+	padding: 10px;
+	border-radius: 10px;
+	color: white;
+}
+
+img{
+	width:400px;
+	height: auto;
+	text-align: center;
+}
+
+button{
+	color: indigo;
+}
