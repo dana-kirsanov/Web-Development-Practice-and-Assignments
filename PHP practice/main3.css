@@ -1,0 +1,31 @@
+#container{
+	width: 60%;
+	margin-right: 20%;
+	margin-left: 20%;
+	padding: 25px;
+	background-color: #6fcb9f;
+	text-align: left;
+	
+
+}
+
+body{
+	font-family: helvetica;
+	background-color: gray;
+}
+
+h2{
+	text-align: center;
+	color: #cd2626;
+}
+
+hr{
+	border-color: #666547;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+form{
+	padding-left: 30%;
+}
+
